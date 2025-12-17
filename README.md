@@ -100,7 +100,7 @@ Projeto desenvolvido em dupla para atividade acadêmica.
 
 Guilherme — HTML e CSS
 
-Nathan — Lógica JavaScript
+Nathan — \CSS e JavaScript
 
 Melhorias de acessibilidade
 
